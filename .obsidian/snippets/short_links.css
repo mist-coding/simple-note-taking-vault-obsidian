@@ -1,0 +1,42 @@
+/* 	INTERNAL LINKS */
+/* Note title desired outcome: "span.cm-hmd-internal-link.cm-link-alias.cm-list-1" */
+
+span.cm-hmd-internal-link.cm-link-has-alias.cm-list-1 {
+  display: none;
+}
+
+span.cm-hmd-internal-link.cm-link-alias-pipe.cm-list-1 {
+  display: none;
+}
+
+span.cm-hmd-internal-link.cm-link-has-alias {
+  display: none;
+}
+
+span.cm-hmd-internal-link.cm-link-alias-pipe {
+  display: none;
+}
+
+/* span.cm-formatting-link.cm-formatting-link-start.cm-list-1 {
+  display: none;
+} */
+
+/* span.cm-formatting-link.cm-formatting-link-end.cm-list-1 {
+  display: none;
+} */
+
+
+/* 	EXTERNAL LINKS (the default behaviour seems better than this) */
+
+/* 
+span.cm-string.cm.url {
+  display: none;
+}
+
+span.cm-formatting.cm-formatting-link-string.cm-string.cm-url {
+  display: none;
+}
+
+span.cm-string.cm-url {
+  display: none;
+} */

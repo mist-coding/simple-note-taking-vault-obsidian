@@ -1,0 +1,29 @@
+div.workspace-split.mod-horizontal.mod-left-split * {
+  margin-left: 0px !important;
+  padding-left: 1px !important;
+}
+
+/* div.tree-item-self.is-clickable.nav-file-title {
+  margin-left: 0px !important;
+  padding-left: 0px !important;
+} /* 
+
+/* div.tree-item-self.is-clickable.nav-file-title.has-focus {
+  margin-left: 0px !important;
+  padding-left: 0px !important;
+} /* 
+
+/* div.tree-item-self.is-clickable.nav-file-title.is-active {
+  margin-left: 0px !important;
+  padding-left: 0px !important;
+} /* 
+
+/* div.tree-item.nav-file {
+  margin-left: 0px !important;
+  padding-left: 0px !important;
+} /* 
+
+/* div.nav-files-container.node-insert-event * {
+  margin-left: 0px !important;
+  padding-left: 0px !important;
+} /*

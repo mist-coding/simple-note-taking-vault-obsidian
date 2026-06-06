@@ -1,0 +1,32 @@
+{
+  "version": 4,
+  "homepages": {
+    "Main Homepage": {
+      "value": "Home",
+      "kind": "Nothing",
+      "openOnStartup": true,
+      "openMode": "Replace all open notes",
+      "manualOpenMode": "Keep open notes",
+      "view": "Default view",
+      "revertView": true,
+      "openWhenEmpty": false,
+      "refreshDataview": false,
+      "autoCreate": true,
+      "autoScroll": false,
+      "pin": false,
+      "commands": [
+        {
+          "id": "workspace:close-others",
+          "period": "Both"
+        },
+        {
+          "id": "workspace:close",
+          "period": "Both"
+        }
+      ],
+      "alwaysApply": false,
+      "hideReleaseNotes": false
+    }
+  },
+  "separateMobile": false
+}

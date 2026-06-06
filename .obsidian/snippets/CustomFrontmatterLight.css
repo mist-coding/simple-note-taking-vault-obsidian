@@ -1,0 +1,29 @@
+div.metadata-properties > div:nth-child(1) {
+  font-size: 20px;
+}
+
+div.metadata-properties > div:nth-child(2) {
+ font-size: 20px;
+}
+
+div.metadata-properties-heading {
+ display: none;
+}
+
+div.metadata-add-button.text-icon-button {
+ display: none;
+}
+
+div.metadata-property-key {
+ display: none;
+}
+
+div.metadata-input-longtext.mod-truncate::before {
+ display: none;
+}
+
+div.metadata-properties {border-bottom: 1px solid lightgray;}
+
+div.metadata-properties > div:nth-child(2) {
+ display: none;
+}

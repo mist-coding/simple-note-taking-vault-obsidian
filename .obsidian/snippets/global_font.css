@@ -1,0 +1,6 @@
+* {
+  font-family: 'CustomR', serif !important;
+}
+
+:root { --default-font: ui-sans-serif, system-ui !important; }
+:root { --font-monospace: "Roboto", ui-monospace, monospace !important; }

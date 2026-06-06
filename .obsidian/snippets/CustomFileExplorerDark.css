@@ -1,0 +1,23 @@
+/* Wrap long nav text*/
+.nav-file-title,
+.nav-folder-title,
+.nav-file-title-content,
+.nav-folder-title-content {
+   white-space: pre-wrap;
+   width: auto;
+   color: white;
+}
+
+/* Wrap title in editor */
+.view-header {
+   height: auto;
+}
+
+.view-header-title {
+   overflow: auto;
+   line-height: revert;
+   white-space: pre-wrap;
+   padding-top: .25em;
+}
+
+.tooltip.mod-right { display: none; }

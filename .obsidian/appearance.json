@@ -1,0 +1,20 @@
+{
+  "enabledCssSnippets": [
+    "CustomFileExplorerLight",
+    "CustomFrontmatterLight",
+    "front_matter_source_final8",
+    "global_font",
+    "hide_top_bar_mobile",
+    "left-margin-padding",
+    "MarkGone_oficial_custom_light",
+    "Roboto-Regular2",
+    "top_tab_numbers_active",
+    "MarkGone_custom_light",
+    "short_links",
+    "new_note_quick_button",
+    "front_matter_source"
+  ],
+  "cssTheme": "Blue Topaz",
+  "showViewHeader": false,
+  "accentColor": "#a52fe4"
+}

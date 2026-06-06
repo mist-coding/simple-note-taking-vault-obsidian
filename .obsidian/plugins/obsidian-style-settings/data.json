@@ -1,0 +1,11 @@
+{
+  "blue-topaz-theme@@folder-icons": true,
+  "blue-topaz-theme@@bt-toggle-colorful-folder": true,
+  "blue-topaz-theme@@remove-arrow": true,
+  "blue-topaz-theme@@remove-first-folder-icon": false,
+  "blue-topaz-theme@@font-text-theme": "Roboto",
+  "blue-topaz-theme@@font-family-strong": "CustomR",
+  "blue-topaz-theme@@retain-header-color": true,
+  "blue-topaz-theme@@inline-title-font": "Roboto",
+  "blue-topaz-theme@@file-bg-shape-option": "file-bg-rounded-rectangle"
+}

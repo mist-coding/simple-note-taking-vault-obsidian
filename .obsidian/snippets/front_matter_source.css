@@ -1,0 +1,36 @@
+div.workspace-leaf-content[data-mode="source"] div.cm-contentContainer > div > div:nth-child(1),
+div.workspace-leaf-content[data-mode="source"] div.cm-contentContainer > div > div:nth-child(2) {
+  height: 0;
+  overflow: hidden;
+  pointer-events: none;
+  user-select: none;
+  -webkit-user-modify: read-only;
+}
+
+/* Hide specific frontmatter lines */
+div.workspace-leaf-content[data-mode="source"] div.cm-contentContainer > div > div:nth-child(5) > span.cm-atom.cm-hmd-frontmatter,
+div.workspace-leaf-content[data-mode="source"] div.cm-contentContainer > div > div:nth-child(5) > span:nth-child(2),
+div.workspace-leaf-content[data-mode="source"] div.cm-contentContainer > div > div:nth-child(5) > span:nth-child(3),
+div.workspace-leaf-content[data-mode="source"] div.cm-contentContainer > div > div:nth-child(5) > span:nth-child(4),
+div.workspace-leaf-content[data-mode="source"] div.cm-contentContainer > div > div:nth-child(5) > span:nth-child(5),
+div.workspace-leaf-content[data-mode="source"] div.cm-contentContainer > div > div:nth-child(5) > span:nth-child(6),
+div.workspace-leaf-content[data-mode="source"] div.cm-contentContainer > div > div:nth-child(5) > span.cm-hmd-frontmatter.cm-number {
+  height: 0;
+  overflow: hidden;
+  pointer-events: none;
+  user-select: none;
+  -webkit-user-modify: read-only;
+}
+
+/* Styling adjustments */
+div.workspace-leaf-content[data-mode="source"] div.cm-contentContainer > div > div:nth-child(4),
+div.workspace-leaf-content[data-mode="source"] div.cm-contentContainer > div > div:nth-child(3) > span {
+  font-size: 20px;
+  color: black;
+  background: #f8f8ff;
+}
+
+span.cm-def.cm-hmd-frontmatter {
+  font-family: Verdana !important;
+  font-size: 22px;
+}

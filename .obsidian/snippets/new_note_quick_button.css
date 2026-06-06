@@ -1,0 +1,11 @@
+svg.svg-icon.lucide-notepad-text {
+ width: 35px; /* Increase this value to make the icon bigger */
+ height: 35px; /* Increase this value to make the icon bigger */
+ background-color: #A52FE4;
+ color: white;
+}
+
+body > div.app-container > div.horizontal-main-container > div > div.workspace-split.mod-horizontal.mod-sidedock.mod-left-split.novel-word-count--active.novel-word-count--note-below.novel-word-count--folder-inline > div.workspace-tabs.mod-top.mod-top-left-space > div.workspace-tab-container > div:nth-child(1) > div > div.nav-header > div > div:nth-child(6) > svg {
+ border: 2px #A52FE4;
+ border-radius: 10px;
+}

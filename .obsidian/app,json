@@ -1,0 +1,12 @@
+{
+  "livePreview": false,
+  "spellcheck": true,
+  "foldIndent": false,
+  "foldHeading": false,
+  "readableLineLength": false,
+  "autoPairMarkdown": false,
+  "promptDelete": false,
+  "showInlineTitle": false,
+  "defaultViewMode": "source",
+  "trashOption": "local"
+}

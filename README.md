@@ -9,7 +9,9 @@ A quick explanation of each CSS snippet and community plugins used on this Vault
 2) CustomFileExplorerLight
 3) CustomFrontmatterDark
 4) CustomFrontmatterLight
+
 These four snippets keep the FileExplorer's and Frontmatter's appearance consistent while using the Dark or Light base color schemes.
+
 5) MarkGone_custom_dark
 6) MarkGone_custom_light
 

@@ -1,0 +1,249 @@
+{
+  "main": {
+    "id": "78eee81ff8cd4585",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e7a9f2206a65607",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0bf08ca016f4aedb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2426539997243d5f",
+    "type": "split",
+    "children": [
+      {
+        "id": "84ae26f799baec6a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b44e912d44c5738",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4009df9ee1dff497",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "76f2763e9dfabf76",
+            "type": "leaf",
+            "state": {
+              "type": "trash-explorer",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "trash-explorer"
+            }
+          },
+          {
+            "id": "8c48db11ab3d7774",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 241.5
+  },
+  "right": {
+    "id": "3b68b8c1ba9a2d2b",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4cb4b7697694476",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8fa456777b40101d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "05.06.2026-22.38.19.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 05.06.2026-22.38.19"
+            }
+          },
+          {
+            "id": "14257bc7a4db4abf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "05.06.2026-22.38.19.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 05.06.2026-22.38.19"
+            }
+          },
+          {
+            "id": "2d4badb40ea9a0c7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "7d1e65e181f0dbd9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "05.06.2026-22.38.19.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 05.06.2026-22.38.19"
+            }
+          },
+          {
+            "id": "50bf7c0a4c483a37",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "command-palette:Open command palette": false,
+      "templates:Insert template": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false,
+      "meld-encrypt:New encrypted note": false,
+      "meld-encrypt:Lock and Close all open encrypted notes": false,
+      "meld-encrypt:Convert to or from an Encrypted note": false,
+      "meld-encrypt:Encrypt Selection": false,
+      "meld-encrypt:Decrypt at Cursor": false,
+      "homepage:Open homepage": false,
+      "omnisearch:Omnisearch": false,
+      "cmdr:Trash Explorer: Empty trash": false,
+      "cmdr:Meld Encrypt: Decrypt": false,
+      "cmdr:Close all other tabs": false,
+      "cmdr:File recovery: Open local history": false,
+      "obsidian-trash-explorer:Open trash explorer": false
+    }
+  },
+  "active": "0bf08ca016f4aedb",
+  "lastOpenFiles": [
+    "README.md",
+    "06.06.2026-16.51.33.md",
+    "06.06.2026-16.50.07.md",
+    "06.06.2026-16.27.48.md",
+    "06.06.2026-15.42.01.md",
+    "06.06.2026-15.42.08.md",
+    "06.06.2026-15.41.21.md",
+    "06.06.2026-15.40.06.md",
+    "06.06.2026-15.39.40.md",
+    "06.06.2026-15.35.44.md",
+    "06.06.2026-15.35.35.md",
+    "06.06.2026-15.33.48.md",
+    "06.06.2026-15.27.32.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "06.06.2026-15.08.20.md",
+    "06.06.2026-15.10.30.md",
+    "SS.md",
+    "06.06.2026-15.18.09.md",
+    "06.06.2026-15.11.33.md",
+    "06.06.2026-15.09.39.md",
+    "06.06.2026-15.10.36.md",
+    "templates/plain_text_paste - Copy.md",
+    "Untitled 2.md",
+    "templates/new_note_default.md",
+    "templates/final88 v5.md",
+    "Untitled",
+    "QuickAdd Scripts/new_note.js",
+    "QuickAdd Scripts/New Text Document.txt",
+    "06/06",
+    "06",
+    "Untitled.canvas",
+    "Test Folder 4",
+    "Test Folder 3",
+    "Test Folder 2",
+    "Archive",
+    "Test Folder 1"
+  ]
+}

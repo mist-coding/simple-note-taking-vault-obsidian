@@ -1,6 +1,6 @@
 # simple-note-taking-vault-obsidian
 
-Hello! This project aims to make Obsidian usable for simple note-taking, without the extra hassle. For now, it's only optimized for desktop. Hope it's helpful for you! Some parts were vibe-coded with AI assistance. don't expect anything professional.
+Hello! This project aims to make Obsidian usable for simple note-taking, without the extra hassle. For now, it's only optimized for desktop. Hope it's helpful for you! Some parts were vibe-coded with AI assistance, don't expect anything professional.
 
 A quick explanation of each CSS snippet and community plugins used on this Vault, plus some recommendations are found below.
 
@@ -42,19 +42,19 @@ Adjusts the left margin padding.
 
 Makes the new note button a little more flashy. (turned off by default)
 
-12) new_note_quick_button.css
+11) new_note_quick_button.css
 
 Makes the quick new note button that uses the QuickAdd plugin a little more flashy. 
 
-13) Roboto-Regular2
+12) Roboto-Regular2
 
 Enables this quite decent font for the entire Obsidian app.
 
-14) short_links.css
+13) short_links.css
 
 Make direct note links to notes without a specified title shorter without repeating date and time.
 
-15) top_tab_numbers_active
+14) top_tab_numbers_active
 
 Includes numbering on the tab panel.
 

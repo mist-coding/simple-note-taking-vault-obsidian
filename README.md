@@ -1,6 +1,6 @@
 # simple-note-taking-vault-obsidian
 
-Hello! This project aims to make Obsidian usable for simple note-taking, without the extra hassle. For now, it's only optimized for desktop. Hope it's helpful for you! Some parts were vibe-coded with AI asistance. don't expect anything professional.
+Hello! This project aims to make Obsidian usable for simple note-taking, without the extra hassle. For now, it's only optimized for desktop. Hope it's helpful for you! Some parts were vibe-coded with AI assistance. don't expect anything professional.
 
 A quick explanation of each CSS snippet and community plugins used on this Vault, plus some recommendations are found below.
 

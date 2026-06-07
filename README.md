@@ -21,11 +21,13 @@ Use the corresponding snippets depending on which base color scheme are you usin
 When using the "Light" base color scheme:
 
 CustomFileExplorerLight,  CustomFrontmatterLight and MarkGone_custom_light should be ENABLED.
+
 CustomFileExplorerDark, CustomFrontmatterDark and MarkGone_custom_dark should be DISABLED.
 
 When using the "Dark" base color scheme:
 
 CustomFileExplorerLight,  CustomFrontmatterLight and MarkGone_custom_light should be DISABLED.
+
 CustomFileExplorerDark, CustomFrontmatterDark and MarkGone_custom_dark should be ENABLED.
 
 7) front_matter_source

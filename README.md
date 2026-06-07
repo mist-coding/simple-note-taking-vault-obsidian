@@ -69,7 +69,9 @@ Useful to select code and apply the correct formatting.
 
 2) Commander
 
-Make managing new items on the menus possible.
+Makes managing new items on the menus possible. 
+
+Many default buttons from the ribbon menu like "Create new canvas" and "Graph view" are hidden with this plugin to declutter Obsidian as much as possible, but you can revert this if you want within the settings of this community plugin (ribbon menu options).
 
 3) FileExplorer++
 

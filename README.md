@@ -125,4 +125,4 @@ I recommend using the "QuickAdd: Quick Note" command for new notes (big icon hig
 
 If you prefer to use another title format go to the "templates folder", open the "new_note_default.md" and change both parts of the code that feature "DD.MM.YYYY-HH.mm.ss" to your desired format. Then go to the "Templates" core plugin on the setting menu and do the same. Finally go to the "QuickAdd" community plugin menu, go to the "Quick Note" settings and change the "File Name Format" to your new desire format.
 
-Last tested on Obsidian v1.12.7 (Windows 11), should still work on newer versions unless there are significant UI changes. Remember to update Community plugins when needed.
+Last tested on Obsidian v1.12.7 (Windows 11). Should still work on newer versions unless there are significant UI changes. Remember to update Community plugins when needed.

@@ -56,7 +56,7 @@ Enables this quite decent font for the entire Obsidian app.
 
 13) short_links.css
 
-Make direct note links to notes without a specified title shorter without repeating date and time.
+Makes direct note links to notes without a specified title shorter without repeating date and time.
 
 14) top_tab_numbers_active
 
